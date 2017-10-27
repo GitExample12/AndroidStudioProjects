@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">College</string>
+    <string name="FACEBOOK_APP_ID">298805993908577</string>
+    <string name="ak_login_protocol_scheme">ak298805993908577</string>
+    <string name="fb_login_protocol_scheme">fb298805993908577</string>
+    <string name="ACCOUNT_KIT_CLIENT_TOKEN">c1679aedc0a10496c8da228c1238a139</string>
+    <string name="phone_label">Phone Number</string>
+    <string name="email_label">Email</string>
+    <string name="name_label">Name</string>
+
+</resources>

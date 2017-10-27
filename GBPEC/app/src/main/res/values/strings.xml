@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">GBPEC</string>
+    <!--facebook login  key -->
+    <string name="FACEBOOK_APP_ID">298805993908577</string>
+    <string name="ak_login_protocol_scheme">ak298805993908577</string>
+    <string name="ACCOUNT_KIT_CLIENT_TOKEN">c1679aedc0a10496c8da228c1238a139</string>
+    <string name="login_email_label">Login with Email</string>
+    <string name="login_phone_label">Login with Phone Number</string>
+    <string name="account">Account</string>
+    <string name="id_label">Account ID</string>
+    <string name="phone_label">Phone Number</string>
+    <string name="email_label">Email</string>
+    <string name="logout_label">Log Out</string>
+</resources>
